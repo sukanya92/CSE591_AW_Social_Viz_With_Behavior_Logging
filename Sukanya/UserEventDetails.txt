@@ -1,0 +1,4 @@
+{"sessionId":"27C8156CC4A7C13CDC2A3A67D0197723","userName":"aaa","accessedTime":"September 20, 2018 12:07:34 PM MST","longTime":"1537470454854","voteUp":"1","voteDwn":"1","favUp":"1","shareCnt":"2","commentCnt":"3"}
+{"sessionId":"D86EDF10CC05ED3B62D0F986A147C748","userName":"bbb","accessedTime":"September 20, 2018 12:08:14 PM MST","longTime":"1537470494648","voteUp":"2","voteDwn":"1","favUp":"1","shareCnt":"0","commentCnt":"0"}
+{"sessionId":"A268F317789F22CDE6F22B8B1276A2F3","userName":"ccc","accessedTime":"September 20, 2018 12:09:13 PM MST","longTime":"1537470553491","voteUp":"5","voteDwn":"3","favUp":"1","shareCnt":"1","commentCnt":"0"}
+{"sessionId":"CBE33D3E93FFD4954409C5CAB70735E0","userName":"ccc","accessedTime":"September 20, 2018 12:10:05 PM MST","longTime":"1537470605186","voteUp":"0","voteDwn":"0","favUp":"1","shareCnt":"0","commentCnt":"2"}

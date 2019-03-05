@@ -1,0 +1,8 @@
+{"sessionId":"27C8156CC4A7C13CDC2A3A67D0197723","userName":"aaa","accessedTime":"September 20, 2018 11:59:44 AM MST","longTime":"1537469984720","action":"login"}
+{"sessionId":"27C8156CC4A7C13CDC2A3A67D0197723","userName":"aaa","accessedTime":"September 20, 2018 12:07:34 PM MST","longTime":"1537470454852","action":"logout"}
+{"sessionId":"D86EDF10CC05ED3B62D0F986A147C748","userName":"bbb","accessedTime":"September 20, 2018 12:07:46 PM MST","longTime":"1537470466124","action":"login"}
+{"sessionId":"D86EDF10CC05ED3B62D0F986A147C748","userName":"bbb","accessedTime":"September 20, 2018 12:08:14 PM MST","longTime":"1537470494628","action":"logout"}
+{"sessionId":"A268F317789F22CDE6F22B8B1276A2F3","userName":"ccc","accessedTime":"September 20, 2018 12:08:34 PM MST","longTime":"1537470514556","action":"login"}
+{"sessionId":"A268F317789F22CDE6F22B8B1276A2F3","userName":"ccc","accessedTime":"September 20, 2018 12:09:13 PM MST","longTime":"1537470553470","action":"logout"}
+{"sessionId":"CBE33D3E93FFD4954409C5CAB70735E0","userName":"ccc","accessedTime":"September 20, 2018 12:09:20 PM MST","longTime":"1537470560859","action":"login"}
+{"sessionId":"CBE33D3E93FFD4954409C5CAB70735E0","userName":"ccc","accessedTime":"September 20, 2018 12:10:05 PM MST","longTime":"1537470605183","action":"logout"}
